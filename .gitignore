@@ -272,3 +272,12 @@ __pycache__/
 # tools/
 
 # End of https://www.toptal.com/developers/gitignore/api/aspnetcore
+40-Objects/.vscode/tasks.json
+40-Objects/.vscode/launch.json
+40-Objects/40-Objects.csproj
+40-Constructor/.vscode/tasks.json
+40-Constructor/.vscode/launch.json
+40-Constructor/40-Constructor.csproj
+40-class-static-public/.vscode/tasks.json
+40-class-static-public/.vscode/launch.json
+40-class-static-public/class.csproj
